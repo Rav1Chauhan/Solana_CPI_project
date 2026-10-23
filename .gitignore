@@ -1,0 +1,9 @@
+node_modules/
+**/target/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.tsbuildinfo
+*-keypair.json
+id.json
